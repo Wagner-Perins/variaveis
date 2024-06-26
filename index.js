@@ -32,5 +32,5 @@ console.log(email);
 
 //email = 'soralalau@gami.com';
 
-//console.log(email)
+//console.log(email);
 

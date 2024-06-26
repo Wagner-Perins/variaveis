@@ -7,6 +7,6 @@ let multiplicacao = numero1 * numero2;
 let divicao = numero1 / numero2;
 
 console.log(soma);
-//console.log(subtracao);
-//console.log(multiplicacao);
-//console.log(divicao);
+// console.log(subtracao);
+// console.log(multiplicacao);
+// console.log(divicao);
